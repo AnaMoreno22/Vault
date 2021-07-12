@@ -1,0 +1,6 @@
+.ant-layout-content {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  margin: 10px;
+  flex-shrink: 0;
+}

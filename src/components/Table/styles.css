@@ -1,0 +1,11 @@
+.ant-table-cell {
+  color: rgb(110, 116, 116);
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.ant-pagination,
+.ant-table-pagination,
+.ant-table-pagination-right {
+  visibility: hidden;
+}
